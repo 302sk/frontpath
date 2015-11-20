@@ -155,8 +155,8 @@ CSS离开HTML是没有意义的，HTML结合CSS的样式描述才能呈现美妙
 
 
 ##前端与后台交互基础
-1. HTTP协议中的方法（POST, GET）
-2. Chrome调试工具抓包
-3. HTML表单提交过程解析
-4. Ajax基础操作，演示
+1. 了解HTTP协议中的方法POST和GET以及[它们的区别](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)
+2. Chrome分析HTTP请求的[方法](http://www.51testing.com/html/22/100922-832779.html)以及更多Chrome DevTool[技巧](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
+3. HTML表单提交[过程解析](http://harttle.com/2015/08/03/form-submit.html)
+4. Ajax[基础操作和后台简单接口](http://www.cnblogs.com/fish-li/archive/2011/07/17/2108884.html)
 5. 简单后台server log展示
